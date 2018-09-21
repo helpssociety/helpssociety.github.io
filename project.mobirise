@@ -24,8 +24,8 @@
         "display4Font": "Libre Baskerville",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 26,
+    "uniqCompNum": 29,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -592,7 +592,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>HELPS Society Activities\n</b></p><p><b style=\"font-size: 1.09rem;\">(Health Education Literacy Promoting Social Service Society).&nbsp;</b></p></blockquote><blockquote>The HELPS is organized and will be operated exclusively for Educational, Health, Literacy promoting, Social Services for the needy (Orphans, Women, Children, Disabled &amp; Old Age) and in furtherance thereof, specific objectives are adopted like (To promote an increased Education, Health &amp; Social Services to the Needy (Orphans, Women, Children, Disabled &amp; Old Age), To promote a greater interest in Social Service &amp; Welfare Activities and its applications, To provide a means of communication between persons having interest in Social Service &amp; Welfare Activities Additional objectives constitute every nook &amp; corner that emphasizes the Development &amp; welfare of the Needy &amp; Poor).\n</blockquote><blockquote>To cooperate with government in all its activities to eradicate medical, health, family welfare and educational problems.\n</blockquote><blockquote>Provide health services to the rural and urban people, medical care, mother care, child care, family planning health education, prevention and control of diseases and other rehabilitation services and family counselling.\n</blockquote><blockquote>To promote agriculture developmental activities in backward-draught areas and literacy enhancement in farmers regarding various government schemes for their empowerment.\n</blockquote><blockquote>Development of handicapped, differently disabled persons in rural and urban areas.\n</blockquote><blockquote>Steps to eradicate water problems and initiative ideas to conserve water.\n</blockquote><blockquote>Youth empowering ideas by encouraging them in Indoor/outdoor sports, games, and personality development programs to serve the nation.\n</blockquote><blockquote>Competitive Coaching initiatives for backward students to get jobs and career guidance programs to increase Employment and reduce Unemployment ratios.\n</blockquote><blockquote>Mobile and Standard permanent library initiatives for education and literacy promotion in all nearby villages.\n</blockquote><blockquote>To visit orphanages, Old age homes for their need and strive for their basic needs and in future we try our best to establish homes respectively.\n</blockquote><blockquote>To promote economic balance of the society in all ways and strive for the rural backward people enhancement by obtaining contracts from central and state governments, public bodies or individuals or by executives and with the help of our society members.\n</blockquote><blockquote>Community halls establishment through our society.\n</blockquote><blockquote>Self-help groups for the rural mahila empowerment.\n</blockquote><blockquote>Programs to eradicate Disasters and Natural calamities and fight at the time of Natural and Accidental disasters.\n</blockquote><blockquote>Programs to maintain secularism among the people for national integration.\n</blockquote><blockquote>We strive for the people and society in all ways what we can do and help the government bodies in whatever ways they are in need.\n</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b style=\"font-style: normal;\">HELPS Society Activities\n</b></p><p><b style=\"font-size: 1.09rem;\">(Health Education Literacy Promoting Social Service Society).&nbsp;</b></p></blockquote><blockquote>The HELPS is organized and will be operated exclusively for Educational, Health, Literacy promoting, Social Services for the needy (Orphans, Women, Children, Disabled &amp; Old Age) and in furtherance thereof, specific objectives are adopted like (To promote an increased Education, Health &amp; Social Services to the Needy (Orphans, Women, Children, Disabled &amp; Old Age), To promote a greater interest in Social Service &amp; Welfare Activities and its applications, To provide a means of communication between persons having interest in Social Service &amp; Welfare Activities Additional objectives constitute every nook &amp; corner that emphasizes the Development &amp; welfare of the Needy &amp; Poor).\n</blockquote><blockquote>To cooperate with government in all its activities to eradicate medical, health, family welfare and educational problems.\n</blockquote><blockquote>Provide health services to the rural and urban people, medical care, mother care, child care, family planning health education, prevention and control of diseases and other rehabilitation services and family counselling.\n</blockquote><blockquote>To promote agriculture developmental activities in backward-draught areas and literacy enhancement in farmers regarding various government schemes for their empowerment.\n</blockquote><blockquote>Development of handicapped, differently disabled persons in rural and urban areas.\n</blockquote><blockquote>Steps to eradicate water problems and initiative ideas to conserve water.\n</blockquote><blockquote>Youth empowering ideas by encouraging them in Indoor/outdoor sports, games, and personality development programs to serve the nation.\n</blockquote><blockquote>Competitive Coaching initiatives for backward students to get jobs and career guidance programs to increase Employment and reduce Unemployment ratios.\n</blockquote><blockquote>Mobile and Standard permanent library initiatives for education and literacy promotion in all nearby villages.\n</blockquote><blockquote>To visit orphanages, Old age homes for their need and strive for their basic needs and in future we try our best to establish homes respectively.\n</blockquote><blockquote>To promote economic balance of the society in all ways and strive for the rural backward people enhancement by obtaining contracts from central and state governments, public bodies or individuals or by executives and with the help of our society members.\n</blockquote><blockquote>Community halls establishment through our society.\n</blockquote><blockquote>Self-help groups for the rural mahila empowerment.\n</blockquote><blockquote>Programs to eradicate Disasters and Natural calamities and fight at the time of Natural and Accidental disasters.\n</blockquote><blockquote>Programs to maintain secularism among the people for national integration.\n</blockquote><blockquote>We strive for the people and society in all ways what we can do and help the government bodies in whatever ways they are in need.\n</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r3Slc20FBJ",
           "_anchor": "content2-h",
           "_protectedParams": [],
@@ -731,6 +731,62 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%",
+                  "min-height": "1px"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"117\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#f7ed4a\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/helps-account-839x1024.png\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\">BANK A/c DETAILS</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/photo-2015-07-03-11-8-478x637.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\">HELPS Registration Certificate</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_cid": "r4i4a4AS3M",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content13-q"
         },
         {
           "_styles": {
